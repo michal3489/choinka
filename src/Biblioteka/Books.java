@@ -1,13 +1,19 @@
 package Biblioteka;
 
 
+import java.util.Date;
 
 public class Books {
+    static Integer readerId;
     static String title;
-    private String autor;
-    private Double ISBN;
-    private Integer quantity;
-    private Integer yearOfIssue;
-    private Integer readerId;
-
+    static String autor;
+    static Double Isbn;
+    static Integer quantity;
+    static Date yearOfIssue;
 }
+
+
+
+
+
+

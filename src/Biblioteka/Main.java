@@ -1,6 +1,4 @@
 package Biblioteka;
-
-import java.io.FileWriter;
 import java.util.Scanner;
 
 public class Main {
@@ -10,11 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(Books.title);
 
 
-        try(FileWriter writer = new FileWriter("libraryBase.txt")){
 
-            writer.write();
-
-        }
 
 
 
