@@ -9,6 +9,6 @@ public class Library {
              private String fullNameOfLib;
              private String openingTime;
              private String bookQuantity;
-             private Integer readersQuantity;
+             private int readersQuantity;
 
 }
