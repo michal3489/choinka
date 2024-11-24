@@ -1,9 +1,7 @@
 package Biblioteka;
-
-
 import java.util.Date;
 
-public class Reader {
+public class LibraryReader {
     private int ReaderId;
     private String Name;
     private String LastName;
